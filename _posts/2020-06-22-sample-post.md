@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Sample post"
 date: 2020-06-22T15:34:30-04:00
 categories:
   - blog
